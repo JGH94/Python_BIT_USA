@@ -52,4 +52,4 @@
 <br>
 
 * 데이터 분석 중, 빈 값의 표현 및 처리  
-* 데이터 시각화 -  https://github.com/JGH94/python_MatplotLib 에서 학습했던 내용을 적용하며 진행 
+* 데이터 시각화 -  https://github.com/JGH94/python_MatplotLib 에서 학습했던 내용을 분석한 데이터에 적용
